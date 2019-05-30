@@ -263,6 +263,7 @@ DerivedData/
 !default.perspectivev3
 *.xcworkspace
 !default.xcworkspace
+!QMK Toolbox.xcworkspace
 xcuserdata/
 
 ## Other

@@ -1,0 +1,5 @@
+os: osx
+osx_image: xcode10.2
+language: objective-c
+xcode_workspace: osx/QMK Toolbox.xcworkspace
+xcode_scheme: QMK Toolbox
